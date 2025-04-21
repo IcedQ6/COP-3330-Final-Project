@@ -1,5 +1,8 @@
 package allClasses;
 
+// COP 3330 Final Project
+// Luke Whipple, Daniel Scariti, Ivan Soliven, Michael Tran
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -7,9 +10,6 @@ import java.util.Comparator;
 import java.io.FileWriter;   // Import the FileWriter class
 import java.io.IOException;  // Import the IOException class to handle errors
 
-
-// COP 3330 Final Project
-// Luke Whipple, Daniel Scariti, Ivan Soliven, Michael Tran
 
 public class FinalProject {
 	
@@ -24,17 +24,17 @@ public class FinalProject {
 		System.out.println("Welcome to the Personnel Management System!\n");
 		
 		// DEBUG OBJECTS
-		personnel.add(new Student("john doe", "jd7538", 3.9, 12));
-		personnel.add(new Student("Born Klmoph", "bk3702", 1.9, 15));
-		personnel.add(new Student("Joe Daddy", "jd8920", 1.0, 9));
-		personnel.add(new Student("Obama Barack", "ob9053", 2.7, 14));
-		personnel.add(new Faculty("Richard Crankshaw", "rc4832", "Engineering", "Professor"));
-		personnel.add(new Faculty("Joe Swanson", "js8640", "Mathematics", "Professor"));
-		personnel.add(new Faculty("Ron Killme", "rc8420", "English", "Adjunct"));
-		personnel.add(new Faculty("Rodney Boner", "rb7799", "Mathematics", "Professor"));
-		personnel.add(new Staff("Joey Baggins", "jb1234", "Mathematics", "Part-Time"));
-		personnel.add(new Staff("Scott Woz", "sw9055", "English", "Full-Time"));
-		personnel.add(new Staff("Mister Scary", "ms9990", "Engineering", "Part-Time"));
+//		personnel.add(new Student("john doe", "jd7538", 3.9, 12));
+//		personnel.add(new Student("Born Klmoph", "bk3702", 1.9, 15));
+//		personnel.add(new Student("Joe Daddy", "jd8920", 1.0, 9));
+//		personnel.add(new Student("Obama Barack", "ob9053", 2.7, 14));
+//		personnel.add(new Faculty("Richard Crankshaw", "rc4832", "Engineering", "Professor"));
+//		personnel.add(new Faculty("Joe Swanson", "js8640", "Mathematics", "Professor"));
+//		personnel.add(new Faculty("Ron Killme", "rc8420", "English", "Adjunct"));
+//		personnel.add(new Faculty("Rodney Boner", "rb7799", "Mathematics", "Professor"));
+//		personnel.add(new Staff("Joey Baggins", "jb1234", "Mathematics", "Part-Time"));
+//		personnel.add(new Staff("Scott Woz", "sw9055", "English", "Full-Time"));
+//		personnel.add(new Staff("Mister Scary", "ms9990", "Engineering", "Part-Time"));
 		
 		// Main Menu
 		while (stillWorking) {
