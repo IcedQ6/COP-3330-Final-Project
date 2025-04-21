@@ -1,0 +1,44 @@
+
+-----Faculty Members-----
+
+1. Richard Crankshaw
+ID: rc4832
+Engineering, Professor
+2. Ron Killme
+ID: rc8420
+English, Adjunct
+3. Joe Swanson
+ID: js8640
+Mathematics, Professor
+4. Rodney Boner
+ID: rb7799
+Mathematics, Professor
+-----Staff Members-----
+
+1. Mister Scary
+ID: ms9990
+Engineering, Part-Time
+2. Scott Woz
+ID: sw9055
+English, Full-Time
+3. Joey Baggins
+ID: jb1234
+Mathematics, Part-Time
+-----Students (by name)-----
+
+1. Born Klmoph
+ID: bk3702
+GPA: 1.9
+Credit Hours: 15
+2. Joe Daddy
+ID: jd8920
+GPA: 1.0
+Credit Hours: 9
+3. john doe
+ID: jd7538
+GPA: 3.9
+Credit Hours: 12
+4. Obama Barack
+ID: ob9053
+GPA: 2.7
+Credit Hours: 14
